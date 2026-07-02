@@ -10,6 +10,7 @@ title: Home
 I specialize in turning raw data into meaningful insights through **data engineering, automation, and visualization**.
 
 I enjoy building:
+
 - ETL pipelines
 - SQL databases
 - Automation workflows
@@ -18,7 +19,7 @@ I enjoy building:
 
 ---
 
-## 🚀 What I do
+## 🚀 What I Do
 
 - Data Engineering (Python, SQL)
 - Database Design
@@ -36,6 +37,6 @@ To become a Data Engineer who builds scalable data systems and transforms comple
 
 ## 📫 Contact
 
-- GitHub: https://github.com/cestobar 
-- LinkedIn: https://linkedin.com/in/cesar-tobar-930671118/
-- Email: cesartobar84@gmail.com
+- **GitHub:** <https://github.com/cestobar>
+- **LinkedIn:** <https://linkedin.com/in/cesar-tobar-930671118/>
+- **Email:** <mailto:cesartobar84@gmail.com>
