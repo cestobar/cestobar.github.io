@@ -36,6 +36,6 @@ To become a Data Engineer who builds scalable data systems and transforms comple
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your_email@gmail.com
+- GitHub: https://github.com/cestobar 
+- LinkedIn: https://linkedin.com/in/cesar-tobar-930671118/
+- Email: cesartobar84@gmail.com
