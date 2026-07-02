@@ -1,56 +1,22 @@
-#-------------------------------
-# General Site Settings
-
 menu:
-- {name: 'Projects', url: '#projects'}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About me',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
-
-#-------------------------------
-# Projects Section
+  - {name: 'Home', url: '#home'}
+  - {name: 'About', url: '#about'}
+  - {name: 'Skills', url: '#skills'}
+  - {name: 'Projects', url: '#projects'}
+  - {name: 'Story', url: '#story'}
+  - {name: 'Contact', url: '#contact'}
 
 projects:
-- {name: 'SQL & Database Portfolio',   url: 'proj-1'}
-- {name: 'Python ETL Pipeline',   url: 'proj-2'}
-- {name: 'Power Apps Business System', url: 'proj-3'}
-- {name: 'Power Automate Workflows',  url: 'proj-4'}
-- {name: 'Data Visualization Dashboards',  url: 'proj-5'}
-
-#-------------------------------
-# Contact Section
+  - {name: 'ETL Pipeline Project', url: 'proj-1'}
+  - {name: 'SQL Database Design', url: 'proj-2'}
+  - {name: 'Power Apps System', url: 'proj-3'}
+  - {name: 'Automation Workflows', url: 'proj-4'}
+  - {name: 'Data Visualization Dashboard', url: 'proj-5'}
 
 social:
   - {icon: 'github', link: 'https://github.com/cestobar'}
   - {icon: 'linkedin', link: 'https://linkedin.com/in/cesar-tobar-930671118/'}
   - {icon: 'envelope', link: 'mailto:cesartobar84@gmail.com'}
 
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-
-#-------------------------------
-# SEO Section
-
-# NOTE: Providing SEO information will make this website more searchable on the internet.
-
 seo:
-  description: "Cesar Tobar - Future Data Engineer portfolio showcasing SQL, Python, ETL pipelines, and data visualization projects"
-  rel-author: ""
-  rel-publisher: ""
-#-------------------------------
-# Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
-
-#-------------------------------
-# Disqus Section
-
-# Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: ''
+  description: "Cesar Tobar portfolio - Data Engineering, SQL, Python, Automation, Data Visualization"
